@@ -1,0 +1,88 @@
+"Local government > Finance > Council Tax > Levels > Average band D council tax, by billing authority"
+"Average band D council tax, by billing authority"
+
+Filters:
+Description: Total CT for billing authority area
+Measure: £ per band D
+
+"","","2012-13 ","2013-14 ","2014-15 ","2015-16 ","2016-17 ","2017-18 ","2018-19 ","2019-20 ","2020-21 ","2021-22 ","2022-23 ","2023-24 "
+"Total Unitary Authorities ","",1187.843666,1225.87,1275.85,1327.616609,1374.21,1419.99555,1492.03056,1590.85,1666.9412,1730.981898,1777.181929,1879.462645
+"Total Unitary Authorities ","Isle of Anglesey ",1139.68,1194.140029,1242.270019,1296.080001,1340.570003,1377.150002,1440.78002,1572.320012,1642.270016,1697.140003,1738.010033,1825.300043
+"","Gwynedd ",1277.54,1323.289998,1370.859979,1430.170005,1483.860013,1529.89001,1601.029978,1699.459989,1769.150022,1837.806741,1893.199993,1987.200019
+"","Conwy ",1130.28,1176.250024,1228.649989,1286.20001,1342.370016,1401.389995,1469.159978,1603.128551,1681.829979,1736.660006,1803.140018,1963.820002
+"","Denbighshire ",1305.81,1336.350022,1379.729977,1422.400021,1444.74998,1487.180021,1555.389999,1656.960036,1728.900019,1797.520029,1853.449983,1927.840004
+"","Flintshire ",1183.87,1221.100017,1254.630014,1300.820009,1352.819999,1395.419994,1480.319989,1604.329987,1679.370009,1747.880005,1815.400007,1906.400007
+"","Wrexham ",1165.98,1200.550832,1238.06143,1276.439044,1309.897254,1346.049983,1398.370322,1480.629998,1575.099997,1676.410022,1741.319985,1843.090019
+"","Powys ",1168.28,1202.700003,1254.760007,1286.929985,1334.50001,1396.578994,1470.569989,1613.439986,1691.779984,1746.559996,1813.570023,1913.389993
+"","Ceredigion ",1169.27,1205.47,1258.60996,1299.590002,1353.680008,1412.742421,1483.61003,1595.820015,1661.110008,1725.219985,1777.27,1908.230042
+"","Pembrokeshire ",944.6,974.359992,1004.829982,1029.010015,1071.410018,1127.901322,1252.409985,1377.249991,1445.220015,1504.000015,1578.609986,1696.070023
+"","Carmarthenshire ",1215.88,1253.710009,1306.870011,1347.57001,1392.22,1434.871314,1500.350015,1587.689996,1666.839993,1729.739989,1779.919991,1908.667383
+"","Swansea ",1170.06,1219.516105,1280.140718,1341.897217,1394.601562,1437.274397,1517.750049,1618.472317,1696.253652,1753.520964,1782.439822,1893.548754
+"","Neath Port Talbot ",1416.23,1475.586519,1542.240304,1608.667309,1657.041602,1703.164212,1772.481285,1857.291341,1935.435095,1996.150015,2011.840029,2112.03002
+"","Bridgend ",1296.16,1346.826527,1413.330318,1482.937299,1542.401614,1592.58422,1675.821311,1777.191314,1862.135082,1937.330012,1951.310022,2052.399976
+"","Vale of Glamorgan ",1148.53,1206.326614,1260.670867,1311.717624,1362.260849,1404.003852,1465.931082,1551.69239,1629.123075,1696.418417,1751.221875,1843.870254
+"","Rhondda Cynon Taf ",1340.07,1397.906493,1461.250289,1518.862996,1562.931595,1603.8165,1665.531285,1741.111287,1798.825107,1853.130007,1886.210004,1972.019999
+"","Merthyr Tydfil ",1377.09,1427.596506,1485.860328,1553.67728,1609.071556,1660.054152,1735.211249,1849.121364,1943.685062,2017.959989,2049.879921,2154.90001
+"","Caerphilly ",1100.47,1127.859994,1169.18,1214.690009,1233.319995,1252.399995,1308.709988,1399.669989,1471.310021,1533.310005,1572.949998,1693.30998
+"","Blaenau Gwent ",1462.97,1525.900013,1591.440083,1635.050033,1694.660017,1753.990089,1827.940149,1927.730288,2009.290075,2078.200069,2098.660164,2181.840127
+"","Torfaen ",1208.04,1246.409977,1293.640024,1352.410015,1404.750022,1456.018887,1526.250031,1620.050017,1689.830026,1758.649962,1802.71,1851.555913
+"","Monmouthshire ",1228.940007,1236.470001,1284.610003,1348.559982,1405.95002,1466.489972,1538.930017,1629.719997,1717.439998,1785.679981,1847.250027,1959.939985
+"","Newport ",1023.05,1057.239989,1101.000011,1153.949984,1199.129989,1242.160005,1300.710025,1381.800029,1477.769994,1537.379997,1583.480001,1712.899991
+"","Cardiff ",1107.71,1119.666618,1165.960335,1224.397217,1270.231463,1319.923781,1390.581297,1471.321293,1541.315918,1600.68008,1640.179534,1715.540629
+
+
+
+Metadata:
+"Title","Council tax levels"
+"Last update","March 2023"
+"Next update","March 2024"
+"Publishing organisation","Welsh Government"
+"Source 1","Budget Requirement (BR1) data collection, Welsh Government"
+"Source 2","No drop down value selected"
+"Source 3","No drop down value selected"
+"Contact email","stats.finance@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","Local authorities"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"Statistical quality","See weblinks"
+"General description","Council tax is a charge levied on each domestic dwelling for the provision of local authority services. This includes elements for the county or county borough council, together with elements for the police authority and, if one exists, for the local community council. 
+
+In 1991, the Valuation Office Agency (VOA) assessed the properties in each county or county borough area and placed each dwelling in a valuation band, ranging from A to H. Dwellings in new buildings are placed in one of the bands according to the value that such a dwelling would have been worth in 1991. The dwellings were revalued in 2003 and the bandings revised for the 2005-06 year onwards.
+
+The bandings for Wales based on the 1991 valuation were:
+
+A - Up to £30,000
+B - £30,001 to £39,000
+C - £39,001 to £51,000
+D - £51,001 to £66,000
+E - £66,001 to £90,000
+F - £90,001 to £120,000
+G - £120,001 to £240,000
+H - £240,001 - No upper limit
+
+The bandings for Wales based on the 2003 valuation are:
+
+A - under £44,000 
+B - £44,001 to £65,000 
+C - £65,001 to £91,000 
+D - £91,001 to £123,000 
+E - £123,001 to £162,000 
+F - £162,001 to £223,000 
+G - £223,001 to £324,000 
+H - £324,001 to £424,000 
+I - £424,001 and above"
+"Data collection and calculation","The information presented here is collected via annual returns from Welsh Local Authorities."
+"Frequency of publication","Annual"
+"Data reference periods","Data are shown for each financial year from 1996-97 onwards."
+"Users, uses and context",""
+"Rounding applied",""
+"Revisions information",""
+"Weblinks","The associated statistical releases can be found via the links at the following webpage:
+https://gov.wales/council-tax-levels
+
+A statistical quality report relating to all Local Government Finance statistical releases can be found at the following webpage:
+https://gov.wales/local-government-finance-statistics-quality-report
+"
+"Keywords","Local Government Finance, council tax band"

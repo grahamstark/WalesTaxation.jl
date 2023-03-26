@@ -1,0 +1,56 @@
+"Local government > Finance > Council Tax > Dwellings > Proportion of council tax dwellings, by band and year (per cent)"
+"Proportion of council tax dwellings, by band and year (per cent)"
+
+Filters:
+Authority: Isle of Anglesey
+
+"","2023-24 "
+"A ",13.490034
+"B ",19.47818
+"C ",19.434598
+"D ",20.71881
+"E ",15.608112
+"F ",7.623918
+"G ",3.033297
+"H ",0.461968
+"I ",0.151084
+
+
+
+Metadata:
+"Title","Proportion of council tax dwellings by band"
+"Last update","January 2023"
+"Next update","January 2024"
+"Publishing organisation","Welsh Government"
+"Source 1","Council tax dwellings (CT1) data collection, Welsh Government"
+"Source 2","No drop down value selected"
+"Source 3","No drop down value selected"
+"Contact email","stats.finance@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","Local authorities"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"General description","The Welsh Government conducts the council tax dwellings survey (CT1 form). Data are available on the number of dwellings eligible for the council tax in each local authority for the next financial year, analysed by council tax band, including the numbers of properties eligible for council tax discounts and exemptions.
+
+Data cover Wales for all years since 1996-97. Data for earlier years is available for the former districts of Wales, which were re-organised on 1 April 1996.
+
+The survey has been conducted every October to December since 1993-94. Results are available in early January, approximately three months before the beginning of the financial year.
+
+Council tax is a charge levied on each domestic dwelling for the provision of local authority services. This includes elements for the county or county borough council, together with elements for the police authority and, if one exists, for the local community council. In 1991, the Valuation Office Agency (VOA) assessed the properties in each county or county borough area and placed each dwelling in a valuation band, ranging from A to H. Dwellings in new buildings are placed in one of the bands according to the value that such a dwelling would have been worth in 1991. 
+
+The dwellings were revalued in 2003 and the bandings revised for the 2005-06 year onwards. The bandings for Wales based on the 1991 valuation were: A - Up to £30,000; B - £30,001 to £39,000; C - £39,001 to £51,000; D - £51,001 to £66,000; E - £66,001 to £90,000; F - £90,001 to £120,000; G - £120,001 to £240,000; H - £240,001 and above. The bandings for Wales based on the 2003 valuation are: A - under £44,000; B - £44,001 to £65,000; C - £65,001 to £91,000; D - £91,001 to £123,000; E - £123,001 to £162,000; F - £162,001 to £223,000; G - £223,001 to £324,000; H - £324,001 to £424,000; I - £424,001 and above.
+"
+"Data collection and calculation","The information presented here is collected via annual returns from Welsh Local Authorities."
+"Frequency of publication","Annual"
+"Data reference periods","Data are shown for each financial year from 1996-97 onwards."
+"Users, uses and context",""
+"Rounding applied",""
+"Revisions information",""
+"Weblinks"," The associated statistical releases can be found via the links at the following webpage:
+https://gov.wales/statistics-and-research?lang=en
+A statistical quality report relating to all Local Government Finance statistical releases can be found at the following webpage:
+https://gov.wales/local-government-finance-statistics-quality-report
+"
+"Statistical quality","See weblinks"
+"Keywords","Local Government Finance, council tax dwellings"

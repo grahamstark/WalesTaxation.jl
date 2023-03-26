@@ -1,0 +1,70 @@
+"Local government > Finance > Council Tax > Dwellings > Proportion of council tax dwellings, by local authority (per cent)"
+"Proportion of council tax dwellings, by local authority (per cent)"
+
+Filters:
+Year: 2023-24
+
+"","","A ","B ","C ","D ","E ","F ","G ","H ","I "
+"Total Unitary Authorities ","",14.342637,20.741147,21.779665,16.342667,13.442354,8.282795,3.777244,0.902641,0.388851
+"Total Unitary Authorities ","Isle of Anglesey ",13.490034,19.47818,19.434598,20.71881,15.608112,7.623918,3.033297,0.461968,0.151084
+"","Gwynedd ",14.319238,25.380789,20.261677,17.281935,13.587089,6.626915,2.078998,0.333969,0.129391
+"","Conwy ",9.091886,14.174173,26.863774,20.572697,16.084955,8.814312,3.368493,0.743182,0.286528
+"","Denbighshire ",8.74384,15.665767,31.987155,17.331579,12.278394,8.436099,4.486765,0.697991,0.37241
+"","Flintshire ",6.050126,13.358457,29.397312,18.823248,15.642673,10.988619,4.580042,0.84606,0.313463
+"","Wrexham ",6.976274,20.652266,27.849446,16.687746,13.436536,8.504072,4.224212,1.182105,0.487344
+"","Powys ",8.838045,13.898173,19.857879,16.259566,18.969233,14.668124,6.322037,0.882399,0.304545
+"","Ceredigion ",4.917888,13.643077,21.325614,21.310846,25.271739,10.497401,2.678993,0.289461,0.064981
+"","Pembrokeshire ",10.265305,15.059306,22.863184,18.269072,19.873129,9.650775,3.350183,0.520369,0.148677
+"","Carmarthenshire ",10.034944,27.124236,20.918203,16.45363,15.052416,7.481953,2.503563,0.347142,0.083912
+"","Swansea ",15.065272,24.950468,21.729469,14.701417,11.256365,7.264142,3.491343,1.060087,0.481437
+"","Neath Port Talbot ",20.111732,41.119485,17.685201,11.060214,6.908185,2.113929,0.806264,0.160943,0.034046
+"","Bridgend ",15.808568,23.144732,22.33269,17.045156,12.083365,6.715554,2.269394,0.436897,0.163643
+"","Vale of Glamorgan ",2.33463,10.495817,23.189325,19.122927,17.29764,12.481421,9.650807,3.693993,1.733438
+"","Rhondda Cynon Taf ",42.157781,22.878291,15.370561,8.696711,6.403073,3.171554,1.084981,0.173335,0.063712
+"","Merthyr Tydfil ",50.7248,24.099124,8.529905,8.183343,5.768586,2.0831,0.577604,0.007453,0.026085
+"","Caerphilly ",18.833125,33.283129,23.429403,11.760651,8.439486,3.035254,1.021111,0.109769,0.088071
+"","Blaenau Gwent ",58.02569,24.610456,8.16409,5.243679,2.674712,1.029453,0.186608,0.00933,0.055982
+"","Torfaen ",14.138824,30.452851,28.078174,10.037757,9.945145,5.554368,1.57916,0.156729,0.056992
+"","Monmouthshire ",1.13506,7.720752,16.218493,21.409347,17.1125,18.24756,12.553535,4.069835,1.532917
+"","Newport ",9.372905,21.311332,25.800997,18.222501,11.868459,8.511414,3.833707,0.806099,0.272587
+"","Cardiff ",2.785074,12.248209,21.003106,23.073291,18.071728,13.421292,6.636165,1.80684,0.954294
+
+
+
+Metadata:
+"Title","Proportion of council tax dwellings by band"
+"Last update","January 2023"
+"Next update","January 2024"
+"Publishing organisation","Welsh Government"
+"Source 1","Council tax dwellings (CT1) data collection, Welsh Government"
+"Source 2","No drop down value selected"
+"Source 3","No drop down value selected"
+"Contact email","stats.finance@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","Local authorities"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"General description","The Welsh Government conducts the council tax dwellings survey (CT1 form). Data are available on the number of dwellings eligible for the council tax in each local authority for the next financial year, analysed by council tax band, including the numbers of properties eligible for council tax discounts and exemptions.
+
+Data cover Wales for all years since 1996-97. Data for earlier years is available for the former districts of Wales, which were re-organised on 1 April 1996.
+
+The survey has been conducted every October to December since 1993-94. Results are available in early January, approximately three months before the beginning of the financial year.
+
+Council tax is a charge levied on each domestic dwelling for the provision of local authority services. This includes elements for the county or county borough council, together with elements for the police authority and, if one exists, for the local community council. In 1991, the Valuation Office Agency (VOA) assessed the properties in each county or county borough area and placed each dwelling in a valuation band, ranging from A to H. Dwellings in new buildings are placed in one of the bands according to the value that such a dwelling would have been worth in 1991. 
+
+The dwellings were revalued in 2003 and the bandings revised for the 2005-06 year onwards. The bandings for Wales based on the 1991 valuation were: A - Up to £30,000; B - £30,001 to £39,000; C - £39,001 to £51,000; D - £51,001 to £66,000; E - £66,001 to £90,000; F - £90,001 to £120,000; G - £120,001 to £240,000; H - £240,001 and above. The bandings for Wales based on the 2003 valuation are: A - under £44,000; B - £44,001 to £65,000; C - £65,001 to £91,000; D - £91,001 to £123,000; E - £123,001 to £162,000; F - £162,001 to £223,000; G - £223,001 to £324,000; H - £324,001 to £424,000; I - £424,001 and above.
+"
+"Data collection and calculation","The information presented here is collected via annual returns from Welsh Local Authorities."
+"Frequency of publication","Annual"
+"Data reference periods","Data are shown for each financial year from 1996-97 onwards."
+"Users, uses and context",""
+"Rounding applied",""
+"Revisions information",""
+"Statistical quality","See weblinks"
+"Keywords","Local Government Finance, council tax dwellings"
+"Weblinks"," The associated statistical releases can be found via the links at the following webpage:
+https://gov.wales/statistics-and-research?lang=en
+A statistical quality report relating to all Local Government Finance statistical releases can be found at the following webpage:
+https://gov.wales/local-government-finance-statistics-quality-report
+"

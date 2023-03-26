@@ -1,0 +1,528 @@
+date
+name
+code
+Residence type: Total; measures: Value
+Residence type: Lives in a household; measures: Value
+Residence type: Lives in a communal establishment; measures: Value
+Household composition: Total; measures: Value
+Household composition: One person household; measures: Value
+Household composition: One person household: Aged 66 years and over; measures: Value
+Household composition: One person household: Other; measures: Value
+Household composition: Single family household; measures: Value
+Household composition: Single family household: All aged 66 years and over; measures: Value
+Household composition: Single family household: Married or civil partnership couple; measures: Value
+Household composition: Single family household: Married or civil partnership couple: No children; measures: Value
+Household composition: Single family household: Married or civil partnership couple: Dependent children; measures: Value
+Household composition: Single family household: Married or civil partnership couple: All children non-dependent; measures: Value
+Household composition: Single family household: Cohabiting couple family; measures: Value
+Household composition: Single family household: Cohabiting couple family: No children; measures: Value
+Household composition: Single family household: Cohabiting couple family: With dependent children; measures: Value
+Household composition: Single family household: Cohabiting couple family: All children non-dependent; measures: Value
+Household composition: Single family household: Lone parent family; measures: Value
+Household composition: Single family household: Lone parent family: With dependent children; measures: Value
+Household composition: Single family household: Lone parent family: All children non-dependent; measures: Value
+Household composition: Single family household: Other single family household; measures: Value
+Household composition: Single family household: Other single family household: Other family composition; measures: Value
+Household composition: Other household types; measures: Value
+Household composition: Other household types: With dependent children; measures: Value
+Household composition: Other household types: Other, including all full-time students and all aged 66 years and over; measures: Value
+Sex: All persons; Age: Total; measures: Value
+Sex: All persons; Age: Aged 4 years and under; measures: Value
+Sex: All persons; Age: Aged under 1 year; measures: Value
+Sex: All persons; Age: Aged 1 year; measures: Value
+Sex: All persons; Age: Aged 2 years; measures: Value
+Sex: All persons; Age: Aged 3 years; measures: Value
+Sex: All persons; Age: Aged 4 years; measures: Value
+Sex: All persons; Age: Aged 5 to 9 years; measures: Value
+Sex: All persons; Age: Aged 5 years; measures: Value
+Sex: All persons; Age: Aged 6 years; measures: Value
+Sex: All persons; Age: Aged 7 years; measures: Value
+Sex: All persons; Age: Aged 8 years; measures: Value
+Sex: All persons; Age: Aged 9 years; measures: Value
+Sex: All persons; Age: Aged 10 to 15 years; measures: Value
+Sex: All persons; Age: Aged 10 years; measures: Value
+Sex: All persons; Age: Aged 11 years; measures: Value
+Sex: All persons; Age: Aged 12 years; measures: Value
+Sex: All persons; Age: Aged 13 years; measures: Value
+Sex: All persons; Age: Aged 14 years; measures: Value
+Sex: All persons; Age: Aged 15 years; measures: Value
+Sex: All persons; Age: Aged 16 to 19 years; measures: Value
+Sex: All persons; Age: Aged 16 years; measures: Value
+Sex: All persons; Age: Aged 17 years; measures: Value
+Sex: All persons; Age: Aged 18 years; measures: Value
+Sex: All persons; Age: Aged 19 years; measures: Value
+Sex: All persons; Age: Aged 20 to 24 years; measures: Value
+Sex: All persons; Age: Aged 20 years; measures: Value
+Sex: All persons; Age: Aged 21 years; measures: Value
+Sex: All persons; Age: Aged 22 years; measures: Value
+Sex: All persons; Age: Aged 23 years; measures: Value
+Sex: All persons; Age: Aged 24 years; measures: Value
+Sex: All persons; Age: Aged 25 to 34 years; measures: Value
+Sex: All persons; Age: Aged 25 years; measures: Value
+Sex: All persons; Age: Aged 26 years; measures: Value
+Sex: All persons; Age: Aged 27 years; measures: Value
+Sex: All persons; Age: Aged 28 years; measures: Value
+Sex: All persons; Age: Aged 29 years; measures: Value
+Sex: All persons; Age: Aged 30 years; measures: Value
+Sex: All persons; Age: Aged 31 years; measures: Value
+Sex: All persons; Age: Aged 32 years; measures: Value
+Sex: All persons; Age: Aged 33 years; measures: Value
+Sex: All persons; Age: Aged 34 years; measures: Value
+Sex: All persons; Age: Aged 35 to 49 years; measures: Value
+Sex: All persons; Age: Aged 35 years; measures: Value
+Sex: All persons; Age: Aged 36 years; measures: Value
+Sex: All persons; Age: Aged 37 years; measures: Value
+Sex: All persons; Age: Aged 38 years; measures: Value
+Sex: All persons; Age: Aged 39 years; measures: Value
+Sex: All persons; Age: Aged 40 years; measures: Value
+Sex: All persons; Age: Aged 41 years; measures: Value
+Sex: All persons; Age: Aged 42 years; measures: Value
+Sex: All persons; Age: Aged 43 years; measures: Value
+Sex: All persons; Age: Aged 44 years; measures: Value
+Sex: All persons; Age: Aged 45 years; measures: Value
+Sex: All persons; Age: Aged 46 years; measures: Value
+Sex: All persons; Age: Aged 47 years; measures: Value
+Sex: All persons; Age: Aged 48 years; measures: Value
+Sex: All persons; Age: Aged 49 years; measures: Value
+Sex: All persons; Age: Aged 50 to 64 years; measures: Value
+Sex: All persons; Age: Aged 50 years; measures: Value
+Sex: All persons; Age: Aged 51 years; measures: Value
+Sex: All persons; Age: Aged 52 years; measures: Value
+Sex: All persons; Age: Aged 53 years; measures: Value
+Sex: All persons; Age: Aged 54 years; measures: Value
+Sex: All persons; Age: Aged 55 years; measures: Value
+Sex: All persons; Age: Aged 56 years; measures: Value
+Sex: All persons; Age: Aged 57 years; measures: Value
+Sex: All persons; Age: Aged 58 years; measures: Value
+Sex: All persons; Age: Aged 59 years; measures: Value
+Sex: All persons; Age: Aged 60 years; measures: Value
+Sex: All persons; Age: Aged 61 years; measures: Value
+Sex: All persons; Age: Aged 62 years; measures: Value
+Sex: All persons; Age: Aged 63 years; measures: Value
+Sex: All persons; Age: Aged 64 years; measures: Value
+Sex: All persons; Age: Aged 65 to 74 years; measures: Value
+Sex: All persons; Age: Aged 65 years; measures: Value
+Sex: All persons; Age: Aged 66 years; measures: Value
+Sex: All persons; Age: Aged 67 years; measures: Value
+Sex: All persons; Age: Aged 68 years; measures: Value
+Sex: All persons; Age: Aged 69 years; measures: Value
+Sex: All persons; Age: Aged 70 years; measures: Value
+Sex: All persons; Age: Aged 71 years; measures: Value
+Sex: All persons; Age: Aged 72 years; measures: Value
+Sex: All persons; Age: Aged 73 years; measures: Value
+Sex: All persons; Age: Aged 74 years; measures: Value
+Sex: All persons; Age: Aged 75 to 84 years; measures: Value
+Sex: All persons; Age: Aged 75 years; measures: Value
+Sex: All persons; Age: Aged 76 years; measures: Value
+Sex: All persons; Age: Aged 77 years; measures: Value
+Sex: All persons; Age: Aged 78 years; measures: Value
+Sex: All persons; Age: Aged 79 years; measures: Value
+Sex: All persons; Age: Aged 80 years; measures: Value
+Sex: All persons; Age: Aged 81 years; measures: Value
+Sex: All persons; Age: Aged 82 years; measures: Value
+Sex: All persons; Age: Aged 83 years; measures: Value
+Sex: All persons; Age: Aged 84 years; measures: Value
+Sex: All persons; Age: Aged 85 years and over; measures: Value
+Sex: All persons; Age: Aged 85 years; measures: Value
+Sex: All persons; Age: Aged 86 years; measures: Value
+Sex: All persons; Age: Aged 87 years; measures: Value
+Sex: All persons; Age: Aged 88 years; measures: Value
+Sex: All persons; Age: Aged 89 years; measures: Value
+Sex: All persons; Age: Aged 90 years and over; measures: Value
+Sex: Female; Age: Total; measures: Value
+Sex: Female; Age: Aged 4 years and under; measures: Value
+Sex: Female; Age: Aged under 1 year; measures: Value
+Sex: Female; Age: Aged 1 year; measures: Value
+Sex: Female; Age: Aged 2 years; measures: Value
+Sex: Female; Age: Aged 3 years; measures: Value
+Sex: Female; Age: Aged 4 years; measures: Value
+Sex: Female; Age: Aged 5 to 9 years; measures: Value
+Sex: Female; Age: Aged 5 years; measures: Value
+Sex: Female; Age: Aged 6 years; measures: Value
+Sex: Female; Age: Aged 7 years; measures: Value
+Sex: Female; Age: Aged 8 years; measures: Value
+Sex: Female; Age: Aged 9 years; measures: Value
+Sex: Female; Age: Aged 10 to 15 years; measures: Value
+Sex: Female; Age: Aged 10 years; measures: Value
+Sex: Female; Age: Aged 11 years; measures: Value
+Sex: Female; Age: Aged 12 years; measures: Value
+Sex: Female; Age: Aged 13 years; measures: Value
+Sex: Female; Age: Aged 14 years; measures: Value
+Sex: Female; Age: Aged 15 years; measures: Value
+Sex: Female; Age: Aged 16 to 19 years; measures: Value
+Sex: Female; Age: Aged 16 years; measures: Value
+Sex: Female; Age: Aged 17 years; measures: Value
+Sex: Female; Age: Aged 18 years; measures: Value
+Sex: Female; Age: Aged 19 years; measures: Value
+Sex: Female; Age: Aged 20 to 24 years; measures: Value
+Sex: Female; Age: Aged 20 years; measures: Value
+Sex: Female; Age: Aged 21 years; measures: Value
+Sex: Female; Age: Aged 22 years; measures: Value
+Sex: Female; Age: Aged 23 years; measures: Value
+Sex: Female; Age: Aged 24 years; measures: Value
+Sex: Female; Age: Aged 25 to 34 years; measures: Value
+Sex: Female; Age: Aged 25 years; measures: Value
+Sex: Female; Age: Aged 26 years; measures: Value
+Sex: Female; Age: Aged 27 years; measures: Value
+Sex: Female; Age: Aged 28 years; measures: Value
+Sex: Female; Age: Aged 29 years; measures: Value
+Sex: Female; Age: Aged 30 years; measures: Value
+Sex: Female; Age: Aged 31 years; measures: Value
+Sex: Female; Age: Aged 32 years; measures: Value
+Sex: Female; Age: Aged 33 years; measures: Value
+Sex: Female; Age: Aged 34 years; measures: Value
+Sex: Female; Age: Aged 35 to 49 years; measures: Value
+Sex: Female; Age: Aged 35 years; measures: Value
+Sex: Female; Age: Aged 36 years; measures: Value
+Sex: Female; Age: Aged 37 years; measures: Value
+Sex: Female; Age: Aged 38 years; measures: Value
+Sex: Female; Age: Aged 39 years; measures: Value
+Sex: Female; Age: Aged 40 years; measures: Value
+Sex: Female; Age: Aged 41 years; measures: Value
+Sex: Female; Age: Aged 42 years; measures: Value
+Sex: Female; Age: Aged 43 years; measures: Value
+Sex: Female; Age: Aged 44 years; measures: Value
+Sex: Female; Age: Aged 45 years; measures: Value
+Sex: Female; Age: Aged 46 years; measures: Value
+Sex: Female; Age: Aged 47 years; measures: Value
+Sex: Female; Age: Aged 48 years; measures: Value
+Sex: Female; Age: Aged 49 years; measures: Value
+Sex: Female; Age: Aged 50 to 64 years; measures: Value
+Sex: Female; Age: Aged 50 years; measures: Value
+Sex: Female; Age: Aged 51 years; measures: Value
+Sex: Female; Age: Aged 52 years; measures: Value
+Sex: Female; Age: Aged 53 years; measures: Value
+Sex: Female; Age: Aged 54 years; measures: Value
+Sex: Female; Age: Aged 55 years; measures: Value
+Sex: Female; Age: Aged 56 years; measures: Value
+Sex: Female; Age: Aged 57 years; measures: Value
+Sex: Female; Age: Aged 58 years; measures: Value
+Sex: Female; Age: Aged 59 years; measures: Value
+Sex: Female; Age: Aged 60 years; measures: Value
+Sex: Female; Age: Aged 61 years; measures: Value
+Sex: Female; Age: Aged 62 years; measures: Value
+Sex: Female; Age: Aged 63 years; measures: Value
+Sex: Female; Age: Aged 64 years; measures: Value
+Sex: Female; Age: Aged 65 to 74 years; measures: Value
+Sex: Female; Age: Aged 65 years; measures: Value
+Sex: Female; Age: Aged 66 years; measures: Value
+Sex: Female; Age: Aged 67 years; measures: Value
+Sex: Female; Age: Aged 68 years; measures: Value
+Sex: Female; Age: Aged 69 years; measures: Value
+Sex: Female; Age: Aged 70 years; measures: Value
+Sex: Female; Age: Aged 71 years; measures: Value
+Sex: Female; Age: Aged 72 years; measures: Value
+Sex: Female; Age: Aged 73 years; measures: Value
+Sex: Female; Age: Aged 74 years; measures: Value
+Sex: Female; Age: Aged 75 to 84 years; measures: Value
+Sex: Female; Age: Aged 75 years; measures: Value
+Sex: Female; Age: Aged 76 years; measures: Value
+Sex: Female; Age: Aged 77 years; measures: Value
+Sex: Female; Age: Aged 78 years; measures: Value
+Sex: Female; Age: Aged 79 years; measures: Value
+Sex: Female; Age: Aged 80 years; measures: Value
+Sex: Female; Age: Aged 81 years; measures: Value
+Sex: Female; Age: Aged 82 years; measures: Value
+Sex: Female; Age: Aged 83 years; measures: Value
+Sex: Female; Age: Aged 84 years; measures: Value
+Sex: Female; Age: Aged 85 years and over; measures: Value
+Sex: Female; Age: Aged 85 years; measures: Value
+Sex: Female; Age: Aged 86 years; measures: Value
+Sex: Female; Age: Aged 87 years; measures: Value
+Sex: Female; Age: Aged 88 years; measures: Value
+Sex: Female; Age: Aged 89 years; measures: Value
+Sex: Female; Age: Aged 90 years and over; measures: Value
+Sex: Male; Age: Total; measures: Value
+Sex: Male; Age: Aged 4 years and under; measures: Value
+Sex: Male; Age: Aged under 1 year; measures: Value
+Sex: Male; Age: Aged 1 year; measures: Value
+Sex: Male; Age: Aged 2 years; measures: Value
+Sex: Male; Age: Aged 3 years; measures: Value
+Sex: Male; Age: Aged 4 years; measures: Value
+Sex: Male; Age: Aged 5 to 9 years; measures: Value
+Sex: Male; Age: Aged 5 years; measures: Value
+Sex: Male; Age: Aged 6 years; measures: Value
+Sex: Male; Age: Aged 7 years; measures: Value
+Sex: Male; Age: Aged 8 years; measures: Value
+Sex: Male; Age: Aged 9 years; measures: Value
+Sex: Male; Age: Aged 10 to 15 years; measures: Value
+Sex: Male; Age: Aged 10 years; measures: Value
+Sex: Male; Age: Aged 11 years; measures: Value
+Sex: Male; Age: Aged 12 years; measures: Value
+Sex: Male; Age: Aged 13 years; measures: Value
+Sex: Male; Age: Aged 14 years; measures: Value
+Sex: Male; Age: Aged 15 years; measures: Value
+Sex: Male; Age: Aged 16 to 19 years; measures: Value
+Sex: Male; Age: Aged 16 years; measures: Value
+Sex: Male; Age: Aged 17 years; measures: Value
+Sex: Male; Age: Aged 18 years; measures: Value
+Sex: Male; Age: Aged 19 years; measures: Value
+Sex: Male; Age: Aged 20 to 24 years; measures: Value
+Sex: Male; Age: Aged 20 years; measures: Value
+Sex: Male; Age: Aged 21 years; measures: Value
+Sex: Male; Age: Aged 22 years; measures: Value
+Sex: Male; Age: Aged 23 years; measures: Value
+Sex: Male; Age: Aged 24 years; measures: Value
+Sex: Male; Age: Aged 25 to 34 years; measures: Value
+Sex: Male; Age: Aged 25 years; measures: Value
+Sex: Male; Age: Aged 26 years; measures: Value
+Sex: Male; Age: Aged 27 years; measures: Value
+Sex: Male; Age: Aged 28 years; measures: Value
+Sex: Male; Age: Aged 29 years; measures: Value
+Sex: Male; Age: Aged 30 years; measures: Value
+Sex: Male; Age: Aged 31 years; measures: Value
+Sex: Male; Age: Aged 32 years; measures: Value
+Sex: Male; Age: Aged 33 years; measures: Value
+Sex: Male; Age: Aged 34 years; measures: Value
+Sex: Male; Age: Aged 35 to 49 years; measures: Value
+Sex: Male; Age: Aged 35 years; measures: Value
+Sex: Male; Age: Aged 36 years; measures: Value
+Sex: Male; Age: Aged 37 years; measures: Value
+Sex: Male; Age: Aged 38 years; measures: Value
+Sex: Male; Age: Aged 39 years; measures: Value
+Sex: Male; Age: Aged 40 years; measures: Value
+Sex: Male; Age: Aged 41 years; measures: Value
+Sex: Male; Age: Aged 42 years; measures: Value
+Sex: Male; Age: Aged 43 years; measures: Value
+Sex: Male; Age: Aged 44 years; measures: Value
+Sex: Male; Age: Aged 45 years; measures: Value
+Sex: Male; Age: Aged 46 years; measures: Value
+Sex: Male; Age: Aged 47 years; measures: Value
+Sex: Male; Age: Aged 48 years; measures: Value
+Sex: Male; Age: Aged 49 years; measures: Value
+Sex: Male; Age: Aged 50 to 64 years; measures: Value
+Sex: Male; Age: Aged 50 years; measures: Value
+Sex: Male; Age: Aged 51 years; measures: Value
+Sex: Male; Age: Aged 52 years; measures: Value
+Sex: Male; Age: Aged 53 years; measures: Value
+Sex: Male; Age: Aged 54 years; measures: Value
+Sex: Male; Age: Aged 55 years; measures: Value
+Sex: Male; Age: Aged 56 years; measures: Value
+Sex: Male; Age: Aged 57 years; measures: Value
+Sex: Male; Age: Aged 58 years; measures: Value
+Sex: Male; Age: Aged 59 years; measures: Value
+Sex: Male; Age: Aged 60 years; measures: Value
+Sex: Male; Age: Aged 61 years; measures: Value
+Sex: Male; Age: Aged 62 years; measures: Value
+Sex: Male; Age: Aged 63 years; measures: Value
+Sex: Male; Age: Aged 64 years; measures: Value
+Sex: Male; Age: Aged 65 to 74 years; measures: Value
+Sex: Male; Age: Aged 65 years; measures: Value
+Sex: Male; Age: Aged 66 years; measures: Value
+Sex: Male; Age: Aged 67 years; measures: Value
+Sex: Male; Age: Aged 68 years; measures: Value
+Sex: Male; Age: Aged 69 years; measures: Value
+Sex: Male; Age: Aged 70 years; measures: Value
+Sex: Male; Age: Aged 71 years; measures: Value
+Sex: Male; Age: Aged 72 years; measures: Value
+Sex: Male; Age: Aged 73 years; measures: Value
+Sex: Male; Age: Aged 74 years; measures: Value
+Sex: Male; Age: Aged 75 to 84 years; measures: Value
+Sex: Male; Age: Aged 75 years; measures: Value
+Sex: Male; Age: Aged 76 years; measures: Value
+Sex: Male; Age: Aged 77 years; measures: Value
+Sex: Male; Age: Aged 78 years; measures: Value
+Sex: Male; Age: Aged 79 years; measures: Value
+Sex: Male; Age: Aged 80 years; measures: Value
+Sex: Male; Age: Aged 81 years; measures: Value
+Sex: Male; Age: Aged 82 years; measures: Value
+Sex: Male; Age: Aged 83 years; measures: Value
+Sex: Male; Age: Aged 84 years; measures: Value
+Sex: Male; Age: Aged 85 years and over; measures: Value
+Sex: Male; Age: Aged 85 years; measures: Value
+Sex: Male; Age: Aged 86 years; measures: Value
+Sex: Male; Age: Aged 87 years; measures: Value
+Sex: Male; Age: Aged 88 years; measures: Value
+Sex: Male; Age: Aged 89 years; measures: Value
+Sex: Male; Age: Aged 90 years and over; measures: Value
+Number of households: Number of households; measures: Value
+Number of bedrooms: Total: All households
+Number of bedrooms: 1 bedroom
+Number of bedrooms: 2 bedrooms
+Number of bedrooms: 3 bedrooms
+Number of bedrooms: 4 or more bedrooms
+Number of rooms (VOA): Total: All households
+Number of rooms (VOA): 1 room
+Number of rooms (VOA): 2 rooms
+Number of rooms (VOA): 3 rooms
+Number of rooms (VOA): 4 rooms
+Number of rooms (VOA): 5 rooms
+Number of rooms (VOA): 6 rooms
+Number of rooms (VOA): 7 rooms
+Number of rooms (VOA): 8 rooms
+Number of rooms (VOA): 9 or more rooms
+Tenure of household: Total: All households
+Tenure of household: Owned
+Tenure of household: Owned: Owns outright
+Tenure of household: Owned: Owns with a mortgage or loan
+Tenure of household: Shared ownership
+Tenure of household: Shared ownership: Shared ownership
+Tenure of household: Social rented
+Tenure of household: Social rented: Rents from council or Local Authority
+Tenure of household: Social rented: Other social rented
+Tenure of household: Private rented
+Tenure of household: Private rented: Private landlord or letting agency
+Tenure of household: Private rented: Other private rented
+Tenure of household: Lives rent free
+Hours worked: Total: All usual residents aged 16 years and over in employment the week before the census
+Hours worked: Part-time
+Hours worked: Part-time: 15 hours or less worked
+Hours worked: Part-time: 16 to 30 hours worked
+Hours worked: Full-time
+Hours worked: Full-time: 31 to 48 hours worked
+Hours worked: Full-time: 49 or more hours worked
+Industry (current): Total: All usual residents aged 16 years and over in employment the week before the census
+Industry (current): A: Agriculture, Forestry and fishing
+Industry (current): 01 Crop and animal production, hunting and related service activities
+Industry (current): 02 Forestry and logging
+Industry (current): 03 Fishing and aquaculture
+Industry (current): B: Mining and quarrying
+Industry (current): 05 Mining of coal and lignite
+Industry (current): 06 Extraction of crude petroleum and natural gas
+Industry (current): 07 Mining of metal ores
+Industry (current): 08 Other mining and quarrying
+Industry (current): 09 Mining support service activities
+Industry (current): C: Manufacturing
+Industry (current): 10 Manufacture of food products
+Industry (current): 11 Manufacture of beverages
+Industry (current): 12 Manufacture of tobacco products
+Industry (current): 13 Manufacture of textiles
+Industry (current): 14 Manufacture of wearing apparel
+Industry (current): 15 Manufacture of leather and related products
+Industry (current): 16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+Industry (current): 17 Manufacture of paper and paper products
+Industry (current): 18 Printing and reproduction of recorded media
+Industry (current): 19 Manufacture of coke and refined petroleum products
+Industry (current): 20 Manufacture of chemicals and chemical products
+Industry (current): 21 Manufacture of basic pharmaceutical products and pharmaceutical preparations
+Industry (current): 22 Manufacture of rubber and plastic products
+Industry (current): 23 Manufacture of other non-metallic mineral products
+Industry (current): 24 Manufacture of basic metals
+Industry (current): 25 Manufacture of fabricated metal products, except machinery and equipment
+Industry (current): 26 Manufacture of computer, electrical and optical products
+Industry (current): 27 Manufacture of electrical equipment
+Industry (current): 28 Manufacture of machinery and equipment not otherwise specified
+Industry (current): 29 Manufacture of motor vehicles, trailers and semi-trailers
+Industry (current): 30 Manufacture of other transport equipment
+Industry (current): 31 Manufacture of furniture
+Industry (current): 32 Other Manufacturing
+Industry (current): 33 Repair and installation of machinery and equipment
+Industry (current): D: Electricity, gas, steam and air conditioning supply
+Industry (current): 35 Electricity, gas, steam and air conditioning supply
+Industry (current): E:  Water supply; Sewerage, Waste management and Remediation activities
+Industry (current): 36 Water collection, treatment and supply
+Industry (current): 37 Sewerage
+Industry (current): 38 Waste collection, treatment and disposal activities; materials recovery
+Industry (current): 39 Remediation activities and other waste management services
+Industry (current): F: Construction
+Industry (current): 41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities
+Industry (current): G: Wholesale and retail trade; repair of motor vehicles and motorcycles
+Industry (current): 45 Wholesale and retail trade and repair of motor vehicles and motorcycles
+Industry (current): 46 Wholesale trade, except of motor vehicles and motorcycles
+Industry (current): 47 Retail trade, except of motor vehicles and motorcycles
+Industry (current): 48 Wholesale and retail not otherwise specified
+Industry (current): H: Transport and storage
+Industry (current): 49 Land transport and transport via pipelines
+Industry (current): 50 Water transport
+Industry (current): 51 Air transport
+Industry (current): 52 Warehousing and support activities for transportation
+Industry (current): 53 Postal and courier activities
+Industry (current): I: Accommodation and food service activities
+Industry (current): 55 Accommodation
+Industry (current): 56 Food and beverage service activities
+Industry (current): J: Information and communication
+Industry (current): 58 Publishing activities
+Industry (current): 59 Motion picture, video and television production, sound recording and music publishing activities
+Industry (current): 60 Programming and broadcasting activities
+Industry (current): 61 Telecommunications
+Industry (current): 62 Computer programming, consultancy and related activities
+Industry (current): 63 Information service activities
+Industry (current): K: Financial and insurance activities
+Industry (current): 64 Financial service activities, except insurance and pension funding
+Industry (current): 65 Insurance, reinsurance and pension funding, except compulsory social security
+Industry (current): 66 Activities auxiliary to financial services and insurance activities
+Industry (current): L: Real estate activities
+Industry (current): 68 Real estate activities
+Industry (current): M: Professional, scientific and technical activities
+Industry (current): 69 Legal and accounting activities
+Industry (current): 70 Activities of head offices; management consultancy activities
+Industry (current): 71 Architectural and engineering activities; technical testing and analysis
+Industry (current): 72 Scientific research and development
+Industry (current): 73 Advertising and market research
+Industry (current): 74 Other professional, scientific and technical activities
+Industry (current): 75 Veterinary activities
+Industry (current): N: Administrative and support service activities
+Industry (current): 77 Rental and leasing activities
+Industry (current): 78 Employment activities
+Industry (current): 79 Travel agency, tour operator and other reservation service and related activities
+Industry (current): 80 Security and investigation activities
+Industry (current): 81 Services to buildings and landscape activities
+Industry (current): 82 Office administrative, office support and other business support activities
+Industry (current): O: Public administration and defence; compulsory social security
+Industry (current): 84 Public administration and defence; compulsory social security
+Industry (current): P: Education
+Industry (current): 85 Education
+Industry (current): Q: Human health and social work activities
+Industry (current): 86 Human health activities
+Industry (current): 87 Residential care activities
+Industry (current): 88 Social work activities without accommodation
+Industry (current): R, S, T, U Other
+Industry (current): 90 Creative, arts and entertainment activities
+Industry (current): 91 Libraries, archives, museums and other cultural activities
+Industry (current): 92 Gambling and betting activities
+Industry (current): 93 Sports activities and amusement and recreation activities
+Industry (current): 94 Activities of membership organisations
+Industry (current): 95 Repair of computers and personal and household goods
+Industry (current): 96 Other personal service activities
+Industry (current): 97 Activities of households as employers of domestic personnel
+Industry (current): 98 Undifferentiated goods- and services-producing activities of private households for own use
+Industry (current): 99 Activities of extraterritorial organisations and bodies
+Occupation (current): Total: All usual residents aged 16 years and over in employment the week before the census
+Occupation (current): 1. Managers, directors and senior officials
+Occupation (current): 2. Professional occupations
+Occupation (current): 3. Associate professional and technical occupations
+Occupation (current): 4. Administrative and secretarial occupations
+Occupation (current): 5. Skilled trades occupations
+Occupation (current): 6. Caring, leisure and other service occupations
+Occupation (current): 7. Sales and customer service occupations
+Occupation (current): 8. Process, plant and machine operatives
+Occupation (current): 9. Elementary occupations
+Economic activity status: Total: All usual residents aged 16 years and over
+Economic activity status: Economically active (excluding full-time students)
+Economic activity status: Economically active (excluding full-time students):In employment
+Economic activity status: Economically active (excluding full-time students):In employment:Employee
+Economic activity status: Economically active (excluding full-time students): In employment: Employee: Part-time
+Economic activity status: Economically active (excluding full-time students): In employment: Employee: Full-time
+Economic activity status: Economically active (excluding full-time students):In employment:Self-employed with employees
+Economic activity status: Economically active (excluding full-time students): In employment: Self-employed with employees: Part-time
+Economic activity status: Economically active (excluding full-time students): In employment: Self-employed with employees: Full-time
+Economic activity status: Economically active (excluding full-time students):In employment:Self-employed without employees
+Economic activity status: Economically active (excluding full-time students): In employment: Self-employed without employees: Part-time
+Economic activity status: Economically active (excluding full-time students): In employment: Self-employed without employees: Full-time
+Economic activity status: Economically active (excluding full-time students): Unemployed
+Economic activity status: Economically active and a full-time student
+Economic activity status: Economically active and a full-time student:In employment
+Economic activity status: Economically active and a full-time student:In employment:Employee
+Economic activity status: Economically active and a full-time student: In employment: Employee: Part-time
+Economic activity status: Economically active and a full-time student: In employment: Employee: Full-time
+Economic activity status: Economically active and a full-time student:In employment:Self-employed with employees
+Economic activity status: Economically active and a full-time student: In employment: Self-employed with employees: Part-time
+Economic activity status: Economically active and a full-time student: In employment: Self-employed with employees: Full-time
+Economic activity status: Economically active and a full-time student:In employment:Self-employed without employees
+Economic activity status: Economically active and a full-time student: In employment: Self-employed without employees: Part-time
+Economic activity status: Economically active and a full-time student: In employment: Self-employed without employees: Full-time
+Economic activity status: Economically active and a full-time student: Unemployed
+Economic activity status: Economically inactive
+Economic activity status: Economically inactive: Retired
+Economic activity status: Economically inactive: Student
+Economic activity status: Economically inactive: Looking after home or family
+Economic activity status: Economically inactive: Long-term sick or disabled
+Economic activity status: Economically inactive: Other
+Highest level of qualification: Total: All usual residents aged 16 years and over
+Highest level of qualification: No qualifications
+Highest level of qualification: Level 1 and entry level qualifications
+Highest level of qualification: Level 2 qualifications
+Highest level of qualification: Apprenticeship
+Highest level of qualification: Level 3 qualifications
+Highest level of qualification: Level 4 qualifications and above
+Highest level of qualification: Other qualifications

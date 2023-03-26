@@ -6,14 +6,12 @@ using .ModelHousehold
 using .FRSHouseholdGetter
 using .Weighting
 using .RunSettings
-
 using DataFrames
 
-for n in names(data)
-    println(n)
-end
+# includet( (joinpath(dirname(pathof(WalesTaxation)),"..", "src", "walestax.jl")))
 
-data = WalesTaxation.loadallcensus()
+data = load_all_census()
+
 rdata = stack( data, Not( [:date,:name,:code]))
 
 for n in unique(rdata.variable  )

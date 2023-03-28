@@ -364,14 +364,7 @@ Tenure of household: Private rented
 Tenure of household: Private rented: Private landlord or letting agency
 Tenure of household: Private rented: Other private rented
 Tenure of household: Lives rent free
-Hours worked: Total: All usual residents aged 16 years and over in employment the week before the census
-Hours worked: Part-time
-Hours worked: Part-time: 15 hours or less worked
-Hours worked: Part-time: 16 to 30 hours worked
-Hours worked: Full-time
-Hours worked: Full-time: 31 to 48 hours worked
-Hours worked: Full-time: 49 or more hours worked
-Industry (current): Total: All usual residents aged 16 years and over in employment the week before the census
+=======Industry (current): Total: All usual residents aged 16 years and over in employment the week before the census
 Industry (current): A: Agriculture, Forestry and fishing
 Industry (current): 01 Crop and animal production, hunting and related service activities
 Industry (current): 02 Forestry and logging
@@ -526,3 +519,15 @@ Highest level of qualification: Apprenticeship
 Highest level of qualification: Level 3 qualifications
 Highest level of qualification: Level 4 qualifications and above
 Highest level of qualification: Other qualifications
+
+
+
+data."Occupation (current): 1. Managers, directors and senior officials" +
+data."Occupation (current): 2. Professional occupations" +
+data."Occupation (current): 3. Associate professional and technical occupations" +
+data."Occupation (current): 4. Administrative and secretarial occupations" +
+data."Occupation (current): 5. Skilled trades occupations" +
+data."Occupation (current): 6. Caring, leisure and other service occupations" +
+data."Occupation (current): 7. Sales and customer service occupations" +
+data."Occupation (current): 8. Process, plant and machine operatives" +
+data."Occupation (current): 9. Elementary occupations"

@@ -1,0 +1,87 @@
+"Local government > Finance > Council Tax > Levels > Council tax levels by billing authority and band (£)"
+"Council tax levels by billing authority and band (£)"
+
+Filters:
+Year: 2023-24
+
+"","","A- ","A ","B ","C ","D ","E ","F ","G ","H ","I "
+"Total Unitary Authorities ","",1044.146,1252.975,1461.804,1670.633,1879.463,2297.121,2714.779,3132.438,3758.925,4385.413
+"Total Unitary Authorities ","Isle of Anglesey ",1014.056,1216.867,1419.678,1622.489,1825.3,2230.922,2636.544,3042.167,3650.6,4259.033
+"","Gwynedd ",1104,1324.8,1545.6,1766.4,1987.2,2428.8,2870.4,3312,3974.4,4636.8
+"","Conwy ",1091.011,1309.213,1527.416,1745.618,1963.82,2400.224,2836.629,3273.033,3927.64,4582.247
+"","Denbighshire ",1071.022,1285.227,1499.431,1713.636,1927.84,2356.249,2784.658,3213.067,3855.68,4498.293
+"","Flintshire ",1059.111,1270.933,1482.756,1694.578,1906.4,2330.044,2753.689,3177.333,3812.8,4448.267
+"","Wrexham ",1023.939,1228.727,1433.514,1638.302,1843.09,2252.666,2662.241,3071.817,3686.18,4300.543
+"","Powys ",1062.994,1275.593,1488.192,1700.791,1913.39,2338.588,2763.786,3188.983,3826.78,4464.577
+"","Ceredigion ",1060.128,1272.153,1484.179,1696.204,1908.23,2332.281,2756.332,3180.383,3816.46,4452.537
+"","Pembrokeshire ",942.2611,1130.713,1319.166,1507.618,1696.07,2072.974,2449.879,2826.783,3392.14,3957.497
+"","Carmarthenshire ",1060.371,1272.445,1484.519,1696.593,1908.667,2332.816,2756.964,3181.112,3817.335,4453.557
+"","Swansea ",1051.972,1262.366,1472.76,1683.154,1893.549,2314.337,2735.126,3155.915,3787.097,4418.28
+"","Neath Port Talbot ",1173.35,1408.02,1642.69,1877.36,2112.03,2581.37,3050.71,3520.05,4224.06,4928.07
+"","Bridgend ",1140.222,1368.267,1596.311,1824.356,2052.4,2508.489,2964.578,3420.667,4104.8,4788.933
+"","Vale of Glamorgan ",1024.372,1229.247,1434.121,1638.996,1843.87,2253.619,2663.368,3073.117,3687.74,4302.364
+"","Rhondda Cynon Taf ",1095.567,1314.68,1533.793,1752.907,1972.02,2410.247,2848.473,3286.7,3944.04,4601.38
+"","Merthyr Tydfil ",1197.167,1436.6,1676.033,1915.467,2154.9,2633.767,3112.633,3591.5,4309.8,5028.1
+"","Caerphilly ",940.7278,1128.873,1317.019,1505.164,1693.31,2069.601,2445.892,2822.183,3386.62,3951.057
+"","Blaenau Gwent ",1212.133,1454.56,1696.987,1939.413,2181.84,2666.694,3151.547,3636.4,4363.68,5090.96
+"","Torfaen ",1028.642,1234.371,1440.099,1645.828,1851.556,2263.013,2674.47,3085.927,3703.112,4320.297
+"","Monmouthshire ",1088.856,1306.627,1524.398,1742.169,1959.94,2395.482,2831.024,3266.567,3919.88,4573.193
+"","Newport ",951.6111,1141.933,1332.255,1522.578,1712.9,2093.544,2474.189,2854.833,3425.8,3996.767
+"","Cardiff ",953.0781,1143.694,1334.309,1524.925,1715.541,2096.772,2478.003,2859.234,3431.081,4002.928
+
+
+
+Metadata:
+"Title","Council tax levels"
+"Last update","March 2023"
+"Next update","March 2024"
+"Publishing organisation","Welsh Government"
+"Source 1","Budget Requirement (BR1) data collection, Welsh Government"
+"Source 2","No drop down value selected"
+"Source 3","No drop down value selected"
+"Contact email","stats.finance@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","Local authorities"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"Keywords","Local Government Finance, council tax band"
+"General description","Council tax is a charge levied on each domestic dwelling for the provision of local authority services. This includes elements for the county or county borough council, together with elements for the police authority and, if one exists, for the local community council. 
+
+In 1991, the Valuation Office Agency (VOA) assessed the properties in each county or county borough area and placed each dwelling in a valuation band, ranging from A to H. Dwellings in new buildings are placed in one of the bands according to the value that such a dwelling would have been worth in 1991. The dwellings were revalued in 2003 and the bandings revised for the 2005-06 year onwards.
+
+The bandings for Wales based on the 1991 valuation were:
+
+A - Up to £30,000
+B - £30,001 to £39,000
+C - £39,001 to £51,000
+D - £51,001 to £66,000
+E - £66,001 to £90,000
+F - £90,001 to £120,000
+G - £120,001 to £240,000
+H - £240,001 - No upper limit
+
+The bandings for Wales based on the 2003 valuation are:
+
+A - under £44,000 
+B - £44,001 to £65,000 
+C - £65,001 to £91,000 
+D - £91,001 to £123,000 
+E - £123,001 to £162,000 
+F - £162,001 to £223,000 
+G - £223,001 to £324,000 
+H - £324,001 to £424,000 
+I - £424,001 and above"
+"Data collection and calculation","The information presented here is collected via annual returns from Welsh Local Authorities."
+"Frequency of publication","Annual"
+"Data reference periods","Data are shown for each financial year from 1996-97 onwards."
+"Users, uses and context",""
+"Rounding applied",""
+"Revisions information",""
+"Weblinks","The associated statistical releases can be found via the links at the following webpage:
+https://gov.wales/council-tax-levels
+
+A statistical quality report relating to all Local Government Finance statistical releases can be found at the following webpage:
+https://gov.wales/local-government-finance-statistics-quality-report
+"
+"Statistical quality","See weblinks"

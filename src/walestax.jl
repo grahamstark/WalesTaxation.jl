@@ -29,9 +29,10 @@ const targets =  ["001", "003", "009", "041", "044", "050", "051","054","059","0
 const SYS = get_system( ; year=2022, scotland = false )
 
 const INCLUDE_OCCUP = true
-const INCLUDE_HOUSING = false
+const INCLUDE_HOUSING = true
 const INCLUDE_CT = true
-const INCLUDE_HCOMP = false
+const INCLUDE_HCOMP = true
+const INCLUDE_EMPLOYMENT = true
 
 """
 Make a copy of Scotben's data directory into some ScottishTaxBenefitModel
@@ -226,8 +227,29 @@ function make_target_list( alldata :: DataFrame, code :: AbstractString ) :: Vec
         data."Sex: Female; Age: Aged 85 years and over; measures: Value"
     # v[31] = data."Economic activity status: Economically active (excluding full-time students)" +
     #     data."Economic activity status: Economically active and a full-time student"
-    if INCLUDE_OCCUP
+    if INCLUDE_EMPLOYMENT 
+        v.ft_employed = data."Economic activity status: Economically active (excluding full-time students): In employment: Employee: Full-time" +
+            data."Economic activity status: Economically active and a full-time student: In employment: Employee: Full-time"
+        
+        v.pt_employed = data."Economic activity status: Economically active (excluding full-time students): In employment: Employee: Part-time" +
+            data."Economic activity status: Economically active and a full-time student: In employment: Employee: Part-time"
+        
+        v.selfemp = data."Economic activity status: Economically active (excluding full-time students):In employment:Self-employed with employees" +
+            data."Economic activity status: Economically active (excluding full-time students):In employment:Self-employed without employees" +
+            data."Economic activity status: Economically active and a full-time student:In employment:Self-employed with employees"+
+            data."Economic activity status: Economically active and a full-time student:In employment:Self-employed without employees"
+        
+        # omit Economic activity status: Economically active (excluding full-time students): Unemployed
+    
+        
         v.economic_inactive =  data."Economic activity status: Economically inactive"
+
+    end
+
+
+    if INCLUDE_OCCUP
+        
+
         # ? don't ommit?
         # data."Occupation (current): 1. Managers, directors and senior officials"
         v.Soc_Professional_Occupations =  data."Occupation (current): 2. Professional occupations"
@@ -351,6 +373,12 @@ function initialise_target_dataframe_wales_la( n :: Integer ) :: DataFrame
     d.f_50_64 = zeros(n)
     d.f_65_74 = zeros(n)
     d.f_75_plus = zeros(n)
+
+    if INCLUDE_EMPLOYMENT
+        d.ft_employed  = zeros(n)
+        d.pt_employed = zeros(n)
+        d.selfemp = zeros(n)
+    end
 
     if INCLUDE_OCCUP 
         d.economic_inactive = zeros(n)
@@ -506,6 +534,18 @@ function make_target_row_wales_la!(
        end
        =#
 
+    if INCLUDE_EMPLOYMENT
+        if pers.employment_status == Full_time_Employee
+            row.ft_employed += 1
+        elseif pers.employment_status == Part_time_Employee
+            row.pt_employed += 1
+        elseif pers.employment_status in [
+            Full_time_Self_Employed,
+            Part_time_Self_Employed ]
+            row.selfemp += 1
+        end
+    end
+
     if INCLUDE_OCCUP
         if pers.employment_status in [
             Full_time_Employee,
@@ -514,6 +554,7 @@ function make_target_row_wales_la!(
             Part_time_Self_Employed,
             Unemployed
             ]
+
             # dropped colinear row.economic_active += 1
         else
             row.economic_inactive += 1
@@ -674,12 +715,12 @@ function weight_councils()
     p = 0
 
     for code in data.code
-        if code in ["W06000024","W06000019","W06000012", "W06000021", "W06000015"] # larger no of band A cts so loosen
+        if code in ["W06000005", "W06000024","W06000019","W06000012", "W06000021", "W06000014", "W06000015"] # larger no of band A cts so loosen
             settings.lower_multiple = 0.01
             settings.upper_multiple = 40.0
         else
-            settings.lower_multiple = 0.1
-            settings.upper_multiple = 15.0
+            settings.lower_multiple = 0.025
+            settings.upper_multiple = 30.0
         end
         w = weight_to_la( settings,
             data,

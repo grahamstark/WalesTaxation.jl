@@ -4,6 +4,7 @@ using WalesTaxation
 using StatsBase
 
 using ScottishTaxBenefitModel
+using .LocalLevelCalculations
 using .Definitions
 using .ModelHousehold
 using .FRSHouseholdGetter
@@ -76,13 +77,36 @@ function get_system( ; year = 2022 ) :: TaxBenefitSystem
     return sys
 end
 
+ 
+"""
+Very simple implementation of the CT scheme
+note this doesn't include rebates apart from single
+person rebate
+"""
+function l_calc_council_tax( 
+    hh :: Household{RT}, 
+    intermed :: MTIntermediate,
+    ctsys :: CouncilTax{RT} ) :: RT where RT 
+    ctres = zero(RT)
+    if hh.region != Wales
+        @assert hh.ct_band != Band_I # We're not Welsh
+    end
+    ctres = ctsys.band_d[hh.council]* ctsys.relativities[hh.ct_band]
+    if intermed.num_adults == 1
+        ctres *= (1-ctsys.single_person_discount)
+    end
+    ## TODO disabled discounts. See CT note.
+    return ctres
+end
+
+
 
 """
 Very simple implementation of the CT scheme
 note this doesn't include rebates apart from single
 person rebate
 """
-function calc_council_tax( 
+function l_calc_council_tax( 
     hh :: Household{RT}, 
     intermed :: MTIntermediate,
     band_d   :: Real,
@@ -100,6 +124,8 @@ end
 
 function calculate_ct()
     ctf = joinpath( DATADIR, "..", "counciltax", "council-tax-levels-23-24-edited.csv")
+
+
     wf = joinpath( DATADIR,  "..", "council-weights-2023-4.csv") 
     settings = Settings()
     settings.benefit_generosity_estimates_available = false
@@ -108,8 +134,19 @@ function calculate_ct()
 
     ctrates = CSV.File( ctf ) |> DataFrame
     weights = CSV.File( wf ) |> DataFrame
+
+    band_ds = Dict{Symbol,Float64}()
+    p = 0
+    for r in eachrow(ctrates)
+        p += 1
+        if p > 1 # skip 1
+            band_ds[Symbol(r.code)] = r.D
+        end
+    end
     
     sys = get_system(year=2022)
+    sys.loctax.ct.band_d = band_ds
+
 
     @time nhh, num_people, nhh2 = initialise( settings; reset=false )
 
@@ -122,6 +159,7 @@ function calculate_ct()
         semp=zeros(22) )
     p = 0
     for code in ctrates.code[2:end]
+        scode = Symbol(code)
         w = weights[!,code]
         p += 1
         band_d = ctrates[(ctrates.code .== code),:D][1]
@@ -133,12 +171,16 @@ function calculate_ct()
 
         for i in 1:nhh
             hh = get_household(i)
+            hh.council = scode
             hh.weight = w[i]
             intermed = make_intermediate( 
                 hh, sys.lmt.hours_limits,
                 sys.age_limits,
                 sys.child_limits )
-            ct = calc_council_tax( hh, intermed.hhint, band_d, sys.loctax.ct )
+            ct1 = l_calc_council_tax( hh, intermed.hhint, band_d, sys.loctax.ct )
+            ct2 = l_calc_council_tax( 
+                hh, intermed.hhint, sys.loctax.ct )
+            @assert ct1 ≈ ct2
             for (pid,pers) in hh.people
                 if pers.employment_status in [
                     Full_time_Employee ]
@@ -153,7 +195,7 @@ function calculate_ct()
                 end
             end
 
-            ctrev += w[i]*ct
+            ctrev += w[i]*ct2
         end 
         average_se /= nses
         average_wage /= nearers
@@ -316,20 +358,6 @@ function load_one_census( id :: String ) :: DataFrame
     rename!( w, [:"geography code"=>:"code", :"geography"=>:"name"])
     w[startswith.(w.code,"W"),:]
 end
-
-function get_system( ; year, scotland = true )  :: TaxBenefitSystem
-    sys = nothing
-    if year == 2022
-       sys = load_file("$(MODEL_PARAMS_DIR)/sys_2022-23.jl" )
-       # load_file!( sys, "$(MODEL_PARAMS_DIR)/sys_2022-23-july-ni.jl" )
-    else
-       return getSystem( scotland=scotland )
-    end 
-    weeklyise!(sys)
-    return sys
- end
- 
-
 
 function initialise_target_dataframe_wales_la( n :: Integer ) :: DataFrame
     d = DataFrame()

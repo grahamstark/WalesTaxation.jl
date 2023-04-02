@@ -159,6 +159,10 @@ function calculate_ct()
         semp=zeros(22) )
     p = 0
     for code in ctrates.code[2:end]
+
+        localincometax = deepcopy( sys.it )
+        localincometax.non_savings_rates .+= 0.01
+    
         scode = Symbol(code)
         w = weights[!,code]
         p += 1
@@ -181,6 +185,9 @@ function calculate_ct()
             ct2 = l_calc_council_tax( 
                 hh, intermed.hhint, sys.loctax.ct )
             @assert ct1 ≈ ct2
+
+            
+
             for (pid,pers) in hh.people
                 if pers.employment_status in [
                     Full_time_Employee ]
